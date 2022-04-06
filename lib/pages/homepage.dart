@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
             alignment: Alignment.center,
             decoration: BoxDecoration(
               shape: BoxShape.circle,
-              border: Border.all(color: Colors.blue, width: 4),
+              border: Border.all(color: Colors.blue, width: 5),
             ),
             child: Text(
               returnresetvalue(),
